@@ -306,5 +306,20 @@ Add new quotes via GitHub pull requests:
 
 ---
 
-**AniQuotes API** © 2023 by GitHub/Shineii86  
-[API Status](https://api.aniquotes.org/api-status) | [Privacy Policy](https://aniquotes.org/privacy) | [Terms of Service](https://aniquotes.org/terms)
+<div align="center">
+  
+**AniQuotes** For inquiries or collaborations
+     
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
+[![Pinterest Badge](https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=Pinterest&logoColor=white)](https://pinterest.com/ikx7a "Follow on Pinterest")
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ikx7a@hotmail.com "Send an Email")
+
+<sup>Maintained by [Shinei Nouzen](https://github.com/Shineii86) © 2025 AniQuotes - All Rights Reserved</sup>
+
+<sup>
+
+[Privacy Policy](https://github.com/AniQuotes/PrivacyPolicy) • [Terms of Service](https://github.com/AniQuotes/ToS) • [Contributing](https://github.com/AniQuotes/Contributing) • [Discussions](https://github.com/AniQuotes/Discussions)
+
+   </sup>
+</div>
