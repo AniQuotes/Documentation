@@ -300,15 +300,14 @@ Add new quotes via GitHub pull requests:
    - Keep quotes authentic to source material
 
 ## Support <a name="support"></a>
-- **GitHub Issues:** [https://github.com/Shineii86/AniQuotesAPI/issues](https://github.com/Shineii86/AniQuotesAPI/issues)
-- **Email:** support@aniquotes.org
-- **Discord:** [https://discord.gg/aniquotes](https://discord.gg/aniquotes)
+- Email: aniquotesapi@gmail.com
+- GitHub Issues: [AniQuotesAPI](https://github.com/Shineii86/AniQuotesAPI/issues)
 
 ---
 
 <div align="center">
   
-**AniQuotes** For inquiries or collaborations
+**[AniQuotes](https://github.com/AniQuotes)** For inquiries or collaborations
      
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/Shineii86 "Contact on Telegram")
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/ikx7.a "Follow on Instagram")
@@ -317,9 +316,4 @@ Add new quotes via GitHub pull requests:
 
 <sup>Maintained by [Shinei Nouzen](https://github.com/Shineii86) © 2025 AniQuotes - All Rights Reserved</sup>
 
-<sup>
-
-[Privacy Policy](https://github.com/AniQuotes/PrivacyPolicy) • [Terms of Service](https://github.com/AniQuotes/ToS) • [Contributing](https://github.com/AniQuotes/Contributing) • [Discussions](https://github.com/AniQuotes/Discussions)
-
-   </sup>
 </div>
