@@ -32,7 +32,7 @@ graph TD
 
 ## Base URL <a name="base-url"></a>
 ```
-https://api.aniquotes.org
+https://aniquotesapi.vercel.app
 ```
 
 ## Authentication <a name="authentication"></a>
@@ -55,7 +55,7 @@ All successful responses return JSON with this structure:
   "data": {},
   "meta": {
     "count": 1,
-    "credit": "GitHub/Shineii86"
+    "credit": "GitHub/@Shineii86"
   }
 }
 ```
@@ -79,7 +79,7 @@ Get a random anime quote
   },
   "meta": {
     "count": 1,
-    "credit": "GitHub/Shineii86"
+    "credit": "GitHub/@Shineii86"
   }
 }
 ```
@@ -106,7 +106,7 @@ Get quotes by anime title
   ],
   "meta": {
     "count": 1,
-    "credit": "GitHub/Shineii86"
+    "credit": "GitHub/@Shineii86"
   }
 }
 ```
@@ -148,7 +148,7 @@ Get quotes in specific languages
   },
   "meta": {
     "count": 1,
-    "credit": "GitHub/Shineii86"
+    "credit": "GitHub/@Shineii86"
   }
 }
 ```
@@ -197,25 +197,25 @@ graph LR
 ### cURL
 ```bash
 # Get random quote
-curl https://api.aniquotes.org/v1/random
+curl https://aniquotesapi.vercel.app/v1/random
 
 # Get Naruto quotes in Japanese
-curl "https://api.aniquotes.org/v2/languages?lang=jp&anime=Naruto"
+curl "https://aniquotesapi.vercel.app/v2/languages?lang=jp&anime=Naruto"
 
 # Generate quote image
-curl "https://api.aniquotes.org/v2/image?id=42&lang=jp" -o quote.png
+curl "https://aniquotesapi.vercel.app/v2/image?id=56&lang=ru" -o quote.png
 ```
 
 ### JavaScript
 ```javascript
 // Get random quote
-fetch('https://api.aniquotes.org/v1/random')
+fetch('https://aniquotesapi.vercel.app/v1/random')
   .then(response => response.json())
   .then(data => console.log(data));
 
 // Generate and display quote image
 const img = document.createElement('img');
-img.src = 'https://api.aniquotes.org/v2/image?id=42';
+img.src = 'https://aniquotesapi.vercel.app/v2/image?id=42';
 document.body.appendChild(img);
 ```
 
@@ -225,15 +225,15 @@ import requests
 
 # Get quotes by character
 response = requests.get(
-  "https://api.aniquotes.org/v1/character",
+  "https://aniquotesapi.vercel.app/v1/character",
   params={"name": "Lelouch"}
 )
 print(response.json())
 
 # Save quote image
 image = requests.get(
-  "https://api.aniquotes.org/v2/image",
-  params={"id": 42}
+  "https://aniquotesapi.vercel.app/v2/image",
+  params={"id": 56}
 )
 with open('quote.png', 'wb') as f:
     f.write(image.content)
@@ -258,7 +258,7 @@ graph TD
 ```json
 {
   "error": "Missing 'name' parameter",
-  "credit": "GitHub/Shineii86"
+  "credit": "GitHub/@Shineii86"
 }
 ```
 
